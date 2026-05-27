@@ -1,0 +1,12 @@
+{
+  "ref_code": "",
+  "save_file": "registered_wallets.txt",
+  "timeout_sec": 30,
+  "proxy_file": "proxies.txt",
+  "cycles": 50,
+  "threads": 10,
+  "proxy_retries": 3,
+  "ref_pool_file": "ref_pool.txt"
+}
+
+
